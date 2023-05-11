@@ -1,0 +1,8 @@
+# .gitattributes
+
+#*.xml -diff
+#*.xml binary
+*.xml -merge -text
+*.txt -merge -text
+
+
